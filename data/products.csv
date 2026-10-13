@@ -1,0 +1,61 @@
+product_id,product_name,category,unit_price
+P001,Deluxe Headphones,Electronics,190.34
+P002,Pro Speaker,Electronics,241.13
+P003,Classic Charger,Electronics,121.41
+P004,Premium Smart Watch,Electronics,177.63
+P005,Eco Tablet Stand,Electronics,197.16
+P006,Compact Headphones,Electronics,241.82
+P007,Ultra Speaker,Electronics,292.18
+P008,Essential Charger,Electronics,266.62
+P009,Deluxe Smart Watch,Electronics,216.73
+P010,Pro Tablet Stand,Electronics,208.4
+P011,Premium Blender,Home & Kitchen,100.4
+P012,Eco Cookware Set,Home & Kitchen,93.15
+P013,Compact Lamp,Home & Kitchen,32.42
+P014,Ultra Throw Pillow,Home & Kitchen,112.29
+P015,Essential Organizer,Home & Kitchen,114.54
+P016,Deluxe Blender,Home & Kitchen,89.06
+P017,Pro Cookware Set,Home & Kitchen,133.8
+P018,Classic Lamp,Home & Kitchen,109.05
+P019,Premium Throw Pillow,Home & Kitchen,70.33
+P020,Eco Organizer,Home & Kitchen,27.46
+P021,Ultra Jacket,Apparel,25.92
+P022,Essential Sneakers,Apparel,55.18
+P023,Deluxe T-Shirt,Apparel,66.21
+P024,Pro Jeans,Apparel,36.69
+P025,Classic Backpack,Apparel,38.93
+P026,Premium Jacket,Apparel,43.02
+P027,Eco Sneakers,Apparel,98.05
+P028,Compact T-Shirt,Apparel,97.13
+P029,Ultra Jeans,Apparel,58.29
+P030,Essential Backpack,Apparel,37.24
+P031,Pro Yoga Mat,Sports,33.3
+P032,Classic Dumbbell Set,Sports,29.38
+P033,Premium Water Bottle,Sports,79.56
+P034,Eco Tent,Sports,22.51
+P035,Compact Bike Light,Sports,70.05
+P036,Ultra Yoga Mat,Sports,173.65
+P037,Essential Dumbbell Set,Sports,98.74
+P038,Deluxe Water Bottle,Sports,150.74
+P039,Pro Tent,Sports,36.33
+P040,Classic Bike Light,Sports,59.23
+P041,Eco Serum,Beauty,85.72
+P042,Compact Moisturizer,Beauty,40.68
+P043,Ultra Hair Dryer,Beauty,61.87
+P044,Essential Fragrance,Beauty,88.09
+P045,Deluxe Brush Set,Beauty,54.06
+P046,Pro Serum,Beauty,34.43
+P047,Classic Moisturizer,Beauty,52.56
+P048,Premium Hair Dryer,Beauty,14.37
+P049,Eco Fragrance,Beauty,18.99
+P050,Compact Brush Set,Beauty,10.57
+P051,Essential Building Blocks,Toys,72.13
+P052,Deluxe Puzzle,Toys,57.65
+P053,Pro RC Car,Toys,32.29
+P054,Classic Dollhouse,Toys,27.04
+P055,Premium Board Game,Toys,58.45
+P056,Eco Building Blocks,Toys,74.53
+P057,Compact Puzzle,Toys,32.34
+P058,Ultra RC Car,Toys,33.87
+P059,Essential Dollhouse,Toys,70.09
+P060,Deluxe Board Game,Toys,72.75
